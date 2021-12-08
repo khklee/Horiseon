@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+/* navigator */
+
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,6 +48,8 @@ body {
     text-decoration: none;
 }
 
+/* hero image */
+
 .hero {
     height: 1300px;
     width: 100%;
@@ -54,6 +58,8 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+/* content section */
 
 .content {
     width: 75%;
@@ -128,6 +134,8 @@ body {
     float: right;
     margin-left: 25px;
 }
+
+/* benefits section */
 
 .benefits {
     margin-right: 20px;
